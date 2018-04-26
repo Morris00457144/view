@@ -1902,9 +1902,9 @@
                                 <color key="backgroundColor" red="0.08235294118" green="0.4941176471" blue="0.98431372549999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EBB-8J-FOr">
-                                <rect key="frame" x="236" y="660" width="152" height="48"/>
+                                <rect key="frame" x="249" y="663" width="127" height="42"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="我的好基友"/>
                                 <connections>
                                     <segue destination="dPN-wz-Ul6" kind="show" id="cnJ-r3-EWO"/>
